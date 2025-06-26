@@ -31,13 +31,13 @@ This repository contains my **self-made notes** for the [**Cisco Networking Basi
 
 ---
 
-## Why I Made This Repo
+## Purpose Of This Repo
 
-I'm using this repository to:
+This repository is for:
 
-- Compile and organize my handwritten and digital notes  
-- Review and reinforce key networking concepts  
-- Share my material with fellow students for reference  
+- Compiling and organizing my handwritten and digital notes  
+- Reviewing and reinforcing key networking concepts  
+- Sharing my material with fellow students for reference  
 
 ---
 
@@ -47,11 +47,10 @@ You can clone this repository locally using:
 
 ```bash
 git clone https://github.com/abds059/Cisco-Networking-Basics.git
-
 ```
 
 ## Disclaimer
 
-These notes are intended for **educational use** and **personal revision**. The material reflects my understanding of the Cisco Networking syllabus and may contain mistakes or simplifications. Contributions or corrections are always welcome!
+These notes are intended for **educational use** and **personal revision**. The material reflects my personal understanding of the Cisco Networking syllabus and may contain mistakes or simplifications. Contributions or corrections are always welcome!
 
 Happy networking! 🌐🧠
