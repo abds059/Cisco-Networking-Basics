@@ -41,6 +41,15 @@ I'm using this repository to:
 
 ---
 
+## Clone This Repository
+
+You can clone this repository locally using:
+
+```bash
+git clone https://github.com/abds059/Cisco-Networking-Basics.git
+
+```
+
 ## Disclaimer
 
 These notes are intended for **educational use** and **personal revision**. The material reflects my understanding of the Cisco Networking syllabus and may contain mistakes or simplifications. Contributions or corrections are always welcome!
