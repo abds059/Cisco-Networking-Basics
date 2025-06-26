@@ -1,7 +1,5 @@
 # Cisco Networking Basics Notes
 
-# Cisco Networking Learning Journey
-
 **Welcome!**
 
 This repository contains my **self-made notes** for the [**Cisco Networking Basics**](https://www.netacad.com/courses/networking-basics?courseLang=en-US) course. The content is organized by the official course structure — with module numbers and submodules exactly as they appeared in the curriculum.
